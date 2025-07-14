@@ -30,5 +30,5 @@ body {
 }
 
 .scrollbar-hide {
-  display: none;
+  scrollbar-width: none;
 }
